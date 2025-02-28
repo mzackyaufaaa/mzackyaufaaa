@@ -13,8 +13,8 @@
 <h2 align="center">⚒️ Languages and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind,git," />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript," /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript" /><br>
 </div>
 
 <br/>
