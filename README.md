@@ -7,6 +7,14 @@
 <h3 align="center">I build responsive frontend systems and intuitive user interfaces.</h3>
 
 <br/>
+<hr/>
 
- <hr/>
+<h2 align="center">⚒️ Languages-Frameworks ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=,mui,html,css,vscode,github,tailwind,git," />
+    <img src="https://skillicons.dev/icons?i=javascript" /><br>
+</div>
 
+<br/>
+<hr/>
