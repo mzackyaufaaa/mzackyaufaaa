@@ -19,8 +19,6 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
-
-<br/>
 <hr/>
 
 <h2 align="center">⚒️ Languages-Frameworks ⚒️</h2>
